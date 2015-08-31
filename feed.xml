@@ -6,9 +6,30 @@
 </description>
     <link>http://planeto.band/</link>
     <atom:link href="http://planeto.band/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jul 2015 10:17:05 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2015 10:17:05 +0200</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2015 14:41:53 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2015 14:41:53 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Mini Live Il 06/09/2015</title>
+        <description>&lt;p&gt;h14.15 presso Giardini S.Pertini Via L.Canepa - Struppa&lt;/p&gt;
+
+&lt;p&gt;Finalmente live con un Mini Act da 30’.&lt;/p&gt;
+
+&lt;p&gt;Accorrete numerosi.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/it_IT/sdk.js#xfbml=1&amp;version=v2.3&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/PlanetOCartoonCoverBand/posts/452959324909498&quot; data-width=&quot;500&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/PlanetOCartoonCoverBand/posts/452959324909498&quot;&gt;&lt;p&gt;Amici dei Planet O l&amp;#039;evento programmato per il 6 settembre ha avuto una piccola variazione di luogo. Mi raccomando...&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/PlanetOCartoonCoverBand&quot;&gt;Planet O&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/PlanetOCartoonCoverBand/posts/452959324909498&quot;&gt;Giovedì 27 agosto 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://planeto.band/2015/08/31/mini-live-06-09-2015.html</link>
+        <guid isPermaLink="true">http://planeto.band/2015/08/31/mini-live-06-09-2015.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
